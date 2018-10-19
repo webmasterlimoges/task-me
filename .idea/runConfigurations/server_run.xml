@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="server-run" type="BashConfigurationType" factoryName="Bash" singleton="true">
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="INTERPRETER_PATH" value="C:\Windows\system32\bash.exe" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\DarkNox\phpprojects\task-me" />
+    <option name="PARENT_ENVS" value="true" />
+    <option name="SCRIPT_NAME" value="C:\Users\DarkNox\phpprojects\task-me\bash\server-run.cmd" />
+    <option name="PARAMETERS" value="" />
+    <module name="" />
+    <method v="2" />
+  </configuration>
+</component>
